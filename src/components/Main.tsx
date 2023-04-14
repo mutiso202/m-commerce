@@ -5,4 +5,4 @@ const MainPage = () => {
         </div>
     )
 };
-export default ContactPage;
+export default MainPage;

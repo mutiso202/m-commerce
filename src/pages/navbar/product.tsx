@@ -1,8 +1,11 @@
+import Navbar from "@/components/Navbar";
+import Products from "@/components/ProductImage";
+
 const ProductsPage = () => {
     return (
         <div>
-        <h1>Products</h1>
-        <p>Product page</p>
+        <Navbar />
+        <Products/>    
         </div>
     );
 };
