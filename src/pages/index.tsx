@@ -14,17 +14,15 @@ import Header from '@/components/Header'
 export default function Home() {
   return (
     <>
-<Navbar/>
-<Hero />
 
+<Hero />
 <MostDemandedProducts/>
 <Header/>
 <Testimonials/>
-
 <OurTeam/>
-
 <SubscriptionPrompt/>
-<Footer/>
+
+
     </>
   )
 }

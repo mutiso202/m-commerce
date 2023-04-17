@@ -6,10 +6,7 @@ import Products from "@/components/ProductImage";
 const ProductsPage = () => {
     return (
         <div>
-        <Navbar />
-       
         <Products/>    
-        <Footer/>
         </div>
     );
 };
